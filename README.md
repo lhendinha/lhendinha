@@ -1,33 +1,27 @@
 ## Hello bro 👋
 ---
 
-I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 24y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 5 years. In the last 2 years, I specialized front-end especially in mobile development. I had the wonderful experience traveling to Vancuover, Canadá <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/>during an interchange and studied there for a month.
+I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 24y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 5 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/>during an interchange and studied there for a year.
 I am interested in traveling around the world as a digital nomad then live in another country.
-
 
 Life is a journey, not a competition, let's grow up together :wink:
 ### Some achievements and experiences
-- [x] - 6 months as support at AuE Solutions
 
-- [x] - 2 years working as a full-stack developer at App4All
+- [x] - 6 months working as a Full-Stack developer at App4All
 
-- [x] - 5 weeks working at Instituto Superior de Engenharia do Porto
+- [x] - 1 year working as a Mobile developer at Inter Construtora
 
-- [x] - Bachelor graduation in Information System completed at IF Sudeste MG - Campus Juiz de Fora
+- [x] - 1 year working as a Full-Stack at Expert
 
-- [x] - Master degree in Computer Science - UFJF (Universidade Federal de Juiz de Fora)
-
-- [x] - Some scientific articles published
+- [x] - Some mobile applications published
 
 ### :incoming_envelope: Talk to me
 
-- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/jjthegomes/)
+- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/pedro-henrique-sousa-almeida-b3977a162/)
 
 
 ### :+1: What can I work with
 
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/java.svg"/> Java
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/python.svg"/> Python
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/html5.svg"/> HTML
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/css3.svg"/> CSS
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg"/> JavaScript
@@ -35,13 +29,11 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React-Native
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/redux.svg"/> Redux
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/adobe.svg"/> PhoneGap
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg"/> Nodejs
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/knex.svg"/> Knex
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/gnubash.svg"/> Shell scripts
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/docker.svg"/> Docker
+- - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Docker
 
 ### 😄 I really like to work on
 - Development with technology focus in general
