@@ -22,6 +22,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 ### :+1: What can I work with
 
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/csharp.svg"/> C#
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/html5.svg"/> HTML
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/css3.svg"/> CSS
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/javascript.svg"/> JavaScript
@@ -40,15 +41,13 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 ### 😄 I really like to work on
 - Development with technology focus in general
-- Mobile and UX/UI
+- Mobile and Cloud
 - Internet of Things (wearable)
 
 ### 🔭 What I'm trying to learn/improve
 
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I want to improve
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: A short experience in Portugal
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I want to learn
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I can work with but I still learning
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 
@@ -62,7 +61,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 </table>
 </center>  
 <!--
-**jjthegomes/jjthegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lhendinha/lhendinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
