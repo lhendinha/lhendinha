@@ -13,7 +13,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - 1 year working as a Full-Stack at Expert
 
-- [x] - Some mobile applications published
+- [x] - Some mobile applications published, like for example [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" /> Ferrum Network](https://ferrum.network)
 
 ### :incoming_envelope: Talk to me
 
@@ -30,7 +30,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React-Native
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/redux.svg"/> Redux
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> Nodejs
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> NodeJS
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/oracle.svg"/> Oracle
@@ -48,6 +48,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I can work with but I still learning
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> ReactJS: I can work with but I can improve on more responsible components
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 
