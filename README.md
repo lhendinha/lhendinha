@@ -30,7 +30,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React-Native
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/redux.svg"/> Redux
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg"/> Nodejs
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> Nodejs
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/oracle.svg"/> Oracle
