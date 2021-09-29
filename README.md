@@ -13,7 +13,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 - [x] - 1 year working as a Full-Stack at Expert
 
-- [x] - Some mobile applications published, like for example Ferrum Network](https://ferrum.network)
+- [x] - Some mobile applications published, like for example [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" /> Ferrum Network](https://ferrum.network)
 
 ### :incoming_envelope: Talk to me
 
