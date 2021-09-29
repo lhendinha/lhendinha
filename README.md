@@ -32,8 +32,11 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/node-dot-js.svg"/> Nodejs
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/oracle.svg"/> Oracle
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/docker.svg"/> Docker
-- - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Docker
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg"/> AWS
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/azuredevops.svg"/> Azure DevOps
 
 ### 😄 I really like to work on
 - Development with technology focus in general
