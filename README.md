@@ -1,7 +1,7 @@
 ## Hello bro 👋
 ---
 
-I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 24y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 5 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
+I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 25y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 6 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
 I am interested in traveling around the world as a digital nomad then live in another country.
 
 Life is a journey, not a competition, let's grow up together :wink:
@@ -14,6 +14,8 @@ Life is a journey, not a competition, let's grow up together :wink:
 - [x] - 1 year working as a Full-Stack at Expert
 
 - [x] - Some mobile applications published, like for example [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/bitcoin.svg" /> Ferrum Network](https://ferrum.network)
+
+- [x] - 11 months working as a React Developer at VanHack
 
 ### :incoming_envelope: Talk to me
 
@@ -38,6 +40,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg"/> AWS
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/azuredevops.svg"/> Azure DevOps
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> Typescript
 
 ### 😄 I really like to work on
 - Development with technology focus in general
@@ -46,9 +49,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 ### 🔭 What I'm trying to learn/improve
 
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I can work with but I still learning
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> ReactJS: I can work with but I can improve on more responsive components
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
 
