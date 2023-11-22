@@ -1,7 +1,7 @@
 ## Hello bro 👋
 ---
 
-I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 25y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 6 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
+I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 26y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 6 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
 I am interested in traveling around the world as a digital nomad then live in another country.
 
 Life is a journey, not a competition, let's grow up together :wink:
