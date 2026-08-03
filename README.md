@@ -1,7 +1,7 @@
 ## Hello bro 👋
 ---
 
-I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 26y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 6 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
+I'm Pedro Henrique Sousa Almeida. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 29y, I have been studying development since was 14y and acting professionally as a full-stack developer for about 6 years. In the last 2 years, I specialized in front-end mainly in mobile applications and also in back-end more in infrastructure and cloud. I had the wonderful experience traveling to Vancuover, Canada <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png"/> during an interchange and studied there for a year.
 I am interested in traveling around the world as a digital nomad then live in another country.
 
 Life is a journey, not a competition, let's grow up together :wink:
@@ -33,6 +33,8 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/react.svg"/> React-Native
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/redux.svg"/> Redux
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> NodeJS
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> GraphQL / Apollo
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/nodedotjs.svg"/> Firebase
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mysql.svg"/> MySQL
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/mongodb.svg"/> MongoDB
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/oracle.svg"/> Oracle
@@ -40,7 +42,6 @@ Life is a journey, not a competition, let's grow up together :wink:
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/amazonaws.svg"/> AWS
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/azuredevops.svg"/> Azure DevOps
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> Typescript
 
 ### 😄 I really like to work on
 - Development with technology focus in general
